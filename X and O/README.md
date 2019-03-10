@@ -8,7 +8,7 @@ Dupa ce un patrat a fost apasat GameManager-ul plaseaza obiectul corespunzator p
 sau daca este remiza si afiseaza un mesaj corespunzator inainte sa reincarcce jocul.
 De asemenea verifica daca "escape" a fost apasat pentru a inchide aplicatia.
 
-# X and O
+# X and O(English)
 
 A simple implementation of the X and O game.
 The application is made by giving the "Clicked" script to each square. The script has the number of each square and can call a method
