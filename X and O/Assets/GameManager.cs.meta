@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1ad31964377d9124d99458d1a4ac3da9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - X: {fileID: 100000, guid: 897d5daecb5ab534488714b27df8a89b, type: 3}
+  - O: {fileID: 100000, guid: 1bbfcfba51bb5264293ecfaf52793fb3, type: 3}
+  - Xi: {instanceID: 0}
+  - Yi: {instanceID: 0}
+  - D: {instanceID: 0}
+  - b: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
